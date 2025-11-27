@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\CoffeeServer\bin\Debug\CoffeeServer.exe.config
+C:\Users\USER\source\repos\CoffeeServer\bin\Debug\CoffeeServer.exe
+C:\Users\USER\source\repos\CoffeeServer\bin\Debug\CoffeeServer.pdb
+C:\Users\USER\source\repos\CoffeeServer\obj\Debug\CoffeeServer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CoffeeServer\obj\Debug\CoffeeServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CoffeeServer\obj\Debug\CoffeeServer.exe
+C:\Users\USER\source\repos\CoffeeServer\obj\Debug\CoffeeServer.pdb

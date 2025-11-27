@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\CoffeeClient\bin\Debug\net8.0-windows\CoffeeClient.exe
+C:\Users\USER\source\repos\CoffeeClient\bin\Debug\net8.0-windows\CoffeeClient.deps.json
+C:\Users\USER\source\repos\CoffeeClient\bin\Debug\net8.0-windows\CoffeeClient.runtimeconfig.json
+C:\Users\USER\source\repos\CoffeeClient\bin\Debug\net8.0-windows\CoffeeClient.dll
+C:\Users\USER\source\repos\CoffeeClient\bin\Debug\net8.0-windows\CoffeeClient.pdb
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\CoffeeClient.Form1.resources
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\CoffeeClient.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\CoffeeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\CoffeeClient.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\CoffeeClient.AssemblyInfo.cs
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\CoffeeClient.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\CoffeeClient.dll
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\refint\CoffeeClient.dll
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\CoffeeClient.pdb
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\CoffeeClient.genruntimeconfig.cache
+C:\Users\USER\source\repos\CoffeeClient\obj\Debug\net8.0-windows\ref\CoffeeClient.dll
